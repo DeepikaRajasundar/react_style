@@ -1,3 +1,23 @@
+# Output
+<img width="951" alt="Screenshot 2024-08-25 193945" src="https://github.com/user-attachments/assets/a643d2a8-28e6-47ad-98ea-10bd3d9b06b3">
+
+# Description
+# My Website
+
+This project is a simple, responsive website built using React. It includes various sections such as Home, About, Services, and Contact Us, providing a user-friendly interface and navigation.
+
+## Features
+- **Navigation Bar**: Links to different sections of the website (Home, About, Services, Contact).
+- **Welcome Section**: A brief introduction to the website.
+- **About Us Section**: Provides an overview of the company or personal information.
+- **Services Section**: Highlights services offered such as Consulting, Web Development, and Digital Marketing.
+- **Contact Us Section**: A form for users to submit their Name, Email, and Message.
+
+## Technologies Used
+- **React.js**: For building the frontend components.
+- **CSS**: For styling and making the website responsive.
+- **HTML**: For structuring the content.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
